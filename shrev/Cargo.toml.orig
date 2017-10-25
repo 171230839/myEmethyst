@@ -1,0 +1,19 @@
+[package]
+name = "shrev"
+version = "0.6.0"
+authors = ["Simon Rönnberg <simon.ronnberg@codemill.se>"]
+repository = "https://github.com/Rhuagh/shrev-rs.git"
+homepage = "https://github.com/Rhuagh/shrev-rs.git"
+
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+documentation = "https://docs.rs/shrev"
+description = "Event channel, meant to be used with `specs`."
+
+keywords = ["specs", "events"]
+
+[dependencies]
+
+[[example]]
+name = "basic"
+path = "examples/basic.rs"

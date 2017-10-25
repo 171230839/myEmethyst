@@ -1,0 +1,6 @@
+[package]
+name = "amethyst_config"
+version = "0.1.0"
+authors = ["171230839 <a171230839@163.com>"]
+
+[dependencies]
